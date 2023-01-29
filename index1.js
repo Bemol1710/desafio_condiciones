@@ -51,7 +51,6 @@ const pass1 = document.querySelector("#clave1")
 const pass2 = document.querySelector("#clave2")
 const pass3 = document.querySelector("#clave3")
 const access = document.querySelector("#resultado")
-
 const enter = document.querySelector("#try")
 
 enter.addEventListener("click", function ingresar() {
